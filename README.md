@@ -43,4 +43,4 @@ The project utilizes a standard public **Groceries Dataset** containing **9,835 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Market-Basket-Analysis.git](https://github.com/YOUR_USERNAME/Market-Basket-Analysis.git)
+   git clone [https://github.com/samuelberchmans/Market-Basket-Analysis.git](https://github.com/samuelberchmans/Market-Basket-Analysis.git)
